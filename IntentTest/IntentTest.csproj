@@ -103,6 +103,7 @@
     <Compile Include="ActionViewController.designer.cs">
       <DependentUpon>IntentViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="IntentHandle.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.AppExtension.CSharp.targets" />
 </Project>
